@@ -1,0 +1,9 @@
+Показывать=
+Цена мб в центах=20
+Курс $=29,00
+form1.width=621
+15.12.2005-0	8070679   	11876853  	Realtek RTL8139 Family PCI Fast Ethernet NIC - Packet Scheduler Miniport
+15.12.2005-0	38913863  	8037040   	D-Link DE-528 Ethernet PCI Adapter - Packet Scheduler Miniport
+15.12.2005-1	84122928  	84122928  	MS TCP Loopback interface
+15.12.2005-0	0         	0         	MS TCP Loopback interface
+26.12.2005-0	81264     	81264     	MS TCP Loopback interface
